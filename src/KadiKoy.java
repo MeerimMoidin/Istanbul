@@ -6,5 +6,6 @@ public class KadiKoy {
         //i hope you will love USA
         System.out.println("I love it");
         //ooooooooo
+        System.out.println("cool");
     }
 }
