@@ -8,5 +8,6 @@ public class KadiKoy {
         //ooooooooo
         System.out.println("cool");
         //ndjvksdvk
+        //bye 
     }
 }
