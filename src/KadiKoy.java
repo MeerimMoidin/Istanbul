@@ -4,5 +4,6 @@ public class KadiKoy {
         //Welcome to USA from Turkey
         System.out.println("thank you");
         //i hope you will love USA
+        System.out.println("I love it");
     }
 }
