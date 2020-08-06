@@ -7,5 +7,6 @@ public class KadiKoy {
         System.out.println("I love it");
         //ooooooooo
         System.out.println("cool");
+        //ndjvksdvk
     }
 }
