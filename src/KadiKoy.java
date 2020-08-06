@@ -5,5 +5,6 @@ public class KadiKoy {
         System.out.println("thank you");
         //i hope you will love USA
         System.out.println("I love it");
+        //ooooooooo
     }
 }
