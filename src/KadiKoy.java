@@ -11,6 +11,8 @@ public class KadiKoy {
         //bye
         //bye
         //ggffu,f
+        String a="Hello";
+         
         
         
         
